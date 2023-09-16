@@ -19,7 +19,7 @@ a {
 header {
     display: flex;
     justify-content: space-between;
-    margin: 1.8rem 4.5rem;
+    margin: 1rem 4.5rem;
 }
 
 .button {
@@ -75,7 +75,7 @@ header {
 }
 
 .image__item {
-    margin: 1.1rem;
+    margin: 1rem;
     width: 298px;
     height: 255px;
     z-index: 2;
@@ -91,7 +91,7 @@ header {
 
 .block__title {
     text-transform: uppercase;
-    margin: .4rem 0;
+    margin: .2rem 0;
 }
 
 .block__title_white {
