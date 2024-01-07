@@ -8,12 +8,12 @@
 
 #### VIARUSHKA
 
-https://ekaterina-titareva.github.io/Week7-HTML-CSS-Bootstrap/
+https://ekaterina-titareva.github.io/Week8-HTML-CSS-Bootstrap/
 
 #### Bootstrap
 
-https://ekaterina-titareva.github.io/Week7-HTML-CSS-Bootstrap/bootstrap/
+https://ekaterina-titareva.github.io/Week8-HTML-CSS-Bootstrap/bootstrap/
 
 #### Table
 
-https://ekaterina-titareva.github.io/Week7-HTML-CSS-Bootstrap/table/
+https://ekaterina-titareva.github.io/Week8-HTML-CSS-Bootstrap/table/
